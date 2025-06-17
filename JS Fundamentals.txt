@@ -1,0 +1,10 @@
+<!-- Running Via Html -->
+    <!-- <h1>"Hello world"</h1> -->
+    <!-- Running Via JS  -->
+    <!-- <script> -->
+       const heading = document.createElement("h1")
+       heading.innerHTML = "Hello World By JS";
+
+        const root = document.getElementById("root");
+        root.appendChild(heading);
+<!-- </script> -->
