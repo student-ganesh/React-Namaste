@@ -71,4 +71,3 @@ useEffect()
 -Install @babel/preset-react Inside my babel.config
 -Install @testing-library/jest-dom(npm i -D @testing-library/jest-dom)
 
-> > > > > > > edbf0de (Change Made)
