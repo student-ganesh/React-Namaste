@@ -1,4 +1,4 @@
-# 🌟 Namaste React
+# 🌟 A Restaurant Web Application-React Developement
 
 A modern React project powered by Parcel, Redux Toolkit, and TailwindCSS. Built with best practices in mind for performance, structure, and maintainability.
 
