@@ -93,13 +93,6 @@ Build for production:
 ```bash
 npm run build
 ```
-
-Deploy using platforms like:
-
-* Vercel
-* Netlify
-* GitHub Pages
-
 ---
 
 ## 📸 Screenshots
