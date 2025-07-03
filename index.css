@@ -1,10 +1,1 @@
-#heading{
-    color: orange;
-    background-color: gray;
-
-}
-#parent{
-    color: orange;
-    background-color:gray ;
-    background-position:0cqmax;
-}
+@import "tailwindcss";
